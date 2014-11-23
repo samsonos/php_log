@@ -1,6 +1,6 @@
 #SamsonPHP log module
 
-This is based on [PSR standrad log](https://github.com/php-fig/log). This module adds specific functions and wrappers
+This is SamsonPHP implementation of [PSR standard log](https://github.com/php-fig/log). This module adds specific functions and wrappers
 that is usually used in SamsonPHP.
 
 [![Latest Stable Version](https://poser.pugx.org/samsonos/php_log/v/stable.svg)](https://packagist.org/packages/samsonos/php_log) 
